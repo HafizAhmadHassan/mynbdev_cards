@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "lesson0.html",
+    "href": "lesson0.html",
+    "title": "Lesson0",
+    "section": "",
+    "text": "This is Introductory video about this course. We have first look to how to create a classification system with fastai.\n\nVideo\n\n\n\n\nHighlights\nFollowing were the highlight’s:\n\nRemaking Fastai Course Practical Deep Learning 2022 Origianl Course\n\n\n\nResources :\n\nSlides\n\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Deep Learning",
+    "section": "",
+    "text": "A free course of deep learning extended version of fast.ai\nIt is designed for anyone who want to get into deep learning. You can learn from beginning to advance level. This is extended version contains detailed explanation of each lesson the original course with addition of notes and more resources."
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Deep Learning",
+    "section": "Instructor",
+    "text": "Instructor\n\n\nHello, My Name is Hafiz Ahmad Hassan. I am your mentor in the path of deep learning. To summarize I studied Bachelors in Computer Science from FAST-NUCES and Masters from University of Verona.\n\n\nMy first article on Skin Lesion Classification System during bachelors published on ICGHIT South Korea. I worked as Researcher at WEISS Surgical Robot Vision Group University College London in the field of Surgical Data Science. Later I joined Mig-Mit NGO in Germany. Currently I am working as Computer Scince Instructor at H-Farm International School Italy.\n\n\nI have an interest in deep learning, Machine Learning espacially its application in field of Medicine."
+  },
+  {
+    "objectID": "index.html#our-sponsors",
+    "href": "index.html#our-sponsors",
+    "title": "Deep Learning",
+    "section": "Our Sponsors",
+    "text": "Our Sponsors\nMig-Mit\n\nSocial Media Links"
+  },
+  {
+    "objectID": "lesson1-part5.html",
+    "href": "lesson1-part5.html",
+    "title": "Lesson1-Part5",
+    "section": "",
+    "text": "Video\n\n\n\n\nObjectives\n\nTabular and Collaborative Filtering\nJupyter Notebook in Fast.ai\nApplications of Deep Learning\nHistory and Basics of Machine Learning\nGeneral Guidelines\n\n\n\nHighlights\nFollowing were the highlight’s:\n\nRemaking Fastai Course Practical Deep Learning 2022  Original Course\nLesson 1 Smaller Version – This one is Part 5 of lesson\nUseful Links (link no. 15 to 20) and notes are provided in google drive (link no. 1 in Resource Section also in description)\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nThe Pytorch Image Model\nfast.ai Library Documentation\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nKaggle Notebook Jhoward\nKaggle Notebook Is it a Bird Classifier\nTabular Model\nCollaborative Filtering\nRise Extension Jupyter Notebook\nFastpages Fast.ai\nTesting Fast.ai\nShare Your Work Fast.ai\nGraphviz Extension\n\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "myp1.html",
+    "href": "myp1.html",
+    "title": "H-Farm Myp1",
+    "section": "",
+    "text": "To use this syllabus: Click “File” then “Make a Copy” – you do not need to request access. This template is available for anyone to use as they wish."
+  },
+  {
+    "objectID": "myp1.html#instructions-for-using-this-course-syllabus-template",
+    "href": "myp1.html#instructions-for-using-this-course-syllabus-template",
+    "title": "H-Farm Myp1",
+    "section": "Instructions for using this Course Syllabus Template",
+    "text": "Instructions for using this Course Syllabus Template\n\nThe syllabus is broken into discrete sections, which can be rearranged, removed, or modified to best fit your course and teaching style.\nThe syllabus also includes references to, and instructions for accessing, the various tools included in Canvas that are commonly used by MPC instructors.\nAdjust descriptions of activities and outcomes to fit your course.\n\nLook for green text used as a placeholder, to indicate information needed, text you should change, or notes. _ Be sure to delete these notes before finalizing your syllabus and change the text color to black. _\nBe sure to remove references to tools, activities, or outcomes that you do not plan to use in your course.\n\nThe syllabus includes some common language to describe campus policies and services to serve as a guideline for you. Be sure to read these sections and change language to fit your course needs.\n\n\nMake Your Syllabus Accessible\nUsing this syllabus template is your first step toward creating an accessible syllabus. You may also want to attend a workshop on Creating Accessible Materials. For more information visit the MPC Canvas Faculty Support & Resources area of Canvas.\nDelete the information above from your\nfinished syllabus before distribution.\n—————————————————————————————————————————-\nMonterey Peninsula College/** Department**\nCourse Number/Name"
+  },
+  {
+    "objectID": "myp1.html#part-1-course-information",
+    "href": "myp1.html#part-1-course-information",
+    "title": "H-Farm Myp1",
+    "section": "Part 1: Course Information",
+    "text": "Part 1: Course Information\n\nInstructor Information\n\nInstructor: Name\nOffice: Location\nOffice Hours: Times & Days___(Note: if online, explain how to access)_\nOffice Telephone: Phone Number\nE-mail: E-mail address_(Note: specify your preferred contact)_\n\n\n\nCourse Description\n\nEnter catalog description.\n\n\n\nPrerequisite/Corequisites\n\nEnter prerequisite information.\n\n\n\nGE Area if Applicable\n\nEnter if applicable or remove this heading. Note: General Education courses must display the area they fulfill.\n\n\n\nTextbook & Course Materials\n\nRequired Text(s):\n\nList required course textbooks. Include detail such as full name of textbook, author, edition, ISBN, description (if desired), and where it can be purchased. If a required text is available online, indicate where it can be accessed.\n\nRecommended Texts & Other Readings:\n\nList other readings available and how/where to access them.\nInclude a general statement such as Other readings will be made available through Canvas.\n\n\n\n\nCourse Requirements\n\nInternet connection (DSL, LAN, or cable connection desirable)\nAccess to Lobo Apps and Canvas\nList other tools, resources, and materials needed by the student for success in the course.\n\n\n\nOnline Course Structure\n[EXAMPLE] This is a fully-online course. All course activities and resources can be found through our course website on Canvas (through Lobo Apps). At designated times throughout the semester, we will participate in a blend of self-paced and group-paced activities using Canvas such as discussion forums, email, journaling, blogging, wikis, and web posting (Add and remove listed activities as appropriate to your course.). All of the learning activities will be completed in your own time so long as they are completed by the dates and times shown in the course schedule.\nImportant Note: This syllabus, along with course assignments and due dates, are subject to change. It is the student’s responsibility to check our course Canvas site for corrections or updates to the syllabus. Any changes will be clearly noted in course announcements.\n\n\nCanvas Access & Technical Assistance\nVisit the MPC Lobo Apps portal (click on Lobo Apps from the main MPC Website www.mpc.edu). To access this course on Canvas you will need access to the Internet and a supported Web browser (Chrome, Firefox, and Safari are recommended). Visit the MPC Online Education Help Desk for information about accessing Canvas, tips to help you get started, and information about how to Contact the MPC Online Education Help Deskfor support."
+  },
+  {
+    "objectID": "myp1.html#part-2-student-learning-outcomes-objectives",
+    "href": "myp1.html#part-2-student-learning-outcomes-objectives",
+    "title": "H-Farm Myp1",
+    "section": "Part 2: Student Learning Outcomes & Objectives",
+    "text": "Part 2: Student Learning Outcomes & Objectives\n\nStudent Learning Outcomes\nList the student learning outcomes for this course. _ Make sure to list the SLOs from the official course outline of record. _ A bulleted list is a good way to display these objectives as shown below:\n\nSLO\nSLO\nSLO\n\n\n\nGeneral Education Outcome(s)\nIf appropriate, list the general education outcomes for this course. _ Make sure to list the GEOs from the official course outline of record. _\n\nGEO\n\n\n\n\n\n\nCourse Objectives\nList objectives for this course.\n\nObjective\nObjective\n\nYou will meet the outcomes listed above through a combination of the following activities in this course:\nProvide instructions to students on how they are expected to meet the learning objectives for the course. For example: Will most objectives be met through examination? Or through participation? Or through projects?\n·Attend …\n·Complete …\n·Participate …"
+  },
+  {
+    "objectID": "myp1.html#part-3-topic-outlineschedule",
+    "href": "myp1.html#part-3-topic-outlineschedule",
+    "title": "H-Farm Myp1",
+    "section": "Part 3: Topic Outline/Schedule",
+    "text": "Part 3: Topic Outline/Schedule\nImportant Note: Refer to the course calendar for specific meeting dates and times. Activity and assignment details will be explained in detail within each week’s corresponding learning module. If you have any questions, please contact your instructor.\n\nWeek 01: Topic\n\nDetails …\n\nWeek 02: Topic\n\nDetails …\n\nWeek 03: Topic\n\nDetails …\n\nWeek 04: Topic\n\nDetails …\n\nWeek 05: Topic\n\nDetails …\n\n\nALTERNATE FORMAT:\n\n\n\nWeek\nTopic\nReadings\nActivities\nDue Date\n\n\n\n\n1\n\n\n\n\n\n\n2\n\n\n\n\n\n\n3\n\n\n\n\n\n\n4\n\n\n\n\n\n\n\nNote about calendar/schedule. While it is important to clearly indicate the schedule for your course, there are many places where you may do this. You may include a topic outline/schedule (like the examples shown above) in your syllabus, make a separate link to a schedule document in your Canvas course, or use the Canvas calendar tool. Regardless of which you choose, be consistent, and keep your calendar up-to-date to help students follow along, reduce confusion, and emphasize time on task."
+  },
+  {
+    "objectID": "myp1.html#part-4-grading-policy",
+    "href": "myp1.html#part-4-grading-policy",
+    "title": "H-Farm Myp1",
+    "section": "Part 4: Grading Policy",
+    "text": "Part 4: Grading Policy\n\nGraded Course Activities\nVisit the Assignments link in Canvas for details about each assignment listed below. Click on Quizzes to access quizzes and exams. (See Part 4 for more information about accessing tools and activities).\n\n\n\n\n\n\n\nPoints\nDescription\n\n\n\n\n#\nItem 1 (List all activities, tests, etc. that will determine the students’ final grade)\n\n\n#\nItem 2\n\n\n100\nTotal Points Possible\n\n\n\n\n\nLate Work Policy\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\nViewing Grades in Canvas\nPoints you receive for graded activities will be posted to the Canvas Grade Book. Select Grades from the Course Administration menu at the top of the screen to view your points.\nInclude a statement about the timeframe of when to look for grades. Example: Your instructor will update the online grades each time a grading session has been complete—typically X days following the completion of an activity. You will see a visual indication of new grades posted on your Canvas home page under the link to this course.\n\n\nLetter Grade Assignment\nInclude an explanation between the relationship of points earned and final letter grade. Example: Final grades assigned for this course will be based on the percentage of total points earned and are assigned as follows:\n\n\n\nLetter Grade\nPercentage\nPerformance\n\n\n\n\nA\n90-100%\nExcellent Work\n\n\nB\n80-89%\nGood Work\n\n\nC\n70-79%\nAverage Work\n\n\nD\n60-69%\nPoor Work\n\n\nF\n0-59%\nFailing Work\n\n\n\nImportant note: For more information about grading at Monterey Peninsula College, visit theacademic policies and grading section of the university catalog."
+  },
+  {
+    "objectID": "myp1.html#part-5-course-policies",
+    "href": "myp1.html#part-5-course-policies",
+    "title": "H-Farm Myp1",
+    "section": "Part 5: Course Policies",
+    "text": "Part 5: Course Policies\n\nParticipation\nStudents are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Canvas tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\nBuild Rapport\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\nComplete Assignments\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\nUnderstand When You May Drop This Course\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\nIncomplete Policy\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\nInform Your Instructor of Any Accommodations Needed\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner. Access Resource Center (ARC) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nMonterey Peninsula College’s Academic Honesty Policy & Procedures\nFrom the MPC Academic Catalog: Academic honesty is a cornerstone of the educational community; therefore, students are expected to understand the standards of academic honesty as they pertain to students’ behavior in the classroom.\n\nPlagiarism\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\nCheating\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\nConsequences of Academic Dishonesty\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action."
+  },
+  {
+    "objectID": "lesson1-part3.html",
+    "href": "lesson1-part3.html",
+    "title": "Lesson1-Part3",
+    "section": "",
+    "text": "This Lecture discusses about history of deep learning , framework and Jupyter notebook.\n\nVideo\n\n\n\n\nObjectives\n\nHistory of Deep Learning\nDeep Learning Framework\nJupyter Notebook\n\n\n\nHighlights\nFollowing were the highlight’s:\n\nRemaking Fastai Course Practical Deep Learning 2022 Original Course\nLesson 1 Smaller Version – This one is Part 3 of lesson\nLink for the notebooks (link no. 13,14) and notes are provided in google drive (link no. 1 in Resource Section also in description)\n\n\n\nResources :\n\nSlides and Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nJhoward Kaggle Notebooks\nNotebook 101 Get Start\n\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "lesson1-part1.html",
+    "href": "lesson1-part1.html",
+    "title": "Lesson1-Part1",
+    "section": "",
+    "text": "This is Introductory video about this course. We have first look to how to create a classification system with fastai.\n\nVideo\n\n\n\n\nHighlights\nFollowing were the highlight’s:\n\nRemaking Fastai Course Practical Deep Learning 2022 Original Course\nLesson 1 Smaller Version – This one is Part 1 of lesson\nLink for the notebook (link no. 11) and notes are provided in google drive (link no. 1 in Resource Section also in description)\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Video Lesson\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nPython Notebook\nMedium.com Article Blog\n\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "lesson1-part4.html",
+    "href": "lesson1-part4.html",
+    "title": "Lesson1-Part4",
+    "section": "",
+    "text": "Video\n\n\n\n\nObjectives\n\nQuick Review of Classification Model\nGeneral View of of Code and Components\nResources How to Modify code\nSegmentation Model\n\n\n\nHighlights\nFollowing were the highlight’s:\n\nRemaking Fastai Course Practical Deep Learning 2022  Original Course\nLesson 1 Smaller Version – This one is Part 4 of lesson\nLink for the notebooks (link no. 13,14) and notes are provided in google drive (link no. 1 in Resource Section also in description) Also have a look to link (7,8)\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nThe Pytorch Image Model\nfast.ai Library Documentation\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nKaggle Notebook Jhoward\nKaggle Notebook Is it a Bird Classifier\n\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "lesson2-part1.html",
+    "href": "lesson2-part1.html",
+    "title": "Lesson2-Part1",
+    "section": "",
+    "text": "This is about Deployment.\n\nVideo\n\n\n\n\nObjectives\n\nGuidelines to Book Usage\nUsage of Forums\nShare of Work : Applications by Students\nPut the Model in Production: Gathering and Cleaning Data\nJupyter Notebook Extensions : Navigation Menu\nChapter 2 : Preprocessing ,  Data Augmentation , Training and Evaluation\n\n\n\nHighlights\nFollowing were the highlight’s:\n\nRemaking Fastai Course Practical Deep Learning 2022 Original Course\nLesson 2 Smaller Version – This one is Part 1 of lesson\nUseful Links (link no. 2 to 13) and notes are provided in google drive (link no. 1 in Resource Section also in description)\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nMedium.com Blog\nAmazon Book\nBook With Colab\nAiQuizzes\nForums Lesson 1 Official Topic\nForums Share Your Work\nDeployed Application With Hugging Face\nJupyter Notebook Extensions\nFastbook Free\nChapter 2 - Fastbook\nComputer Vision Model\nDocumentation of fastai\n\nSpecial Thanks to @Jeremy Howard"
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "",
+    "text": "This lecture will teach you how you can do debugging code in c++ and make a setting. We have shown example as well."
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#prerequisite",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#prerequisite",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Prerequisite :",
+    "text": "Prerequisite :\n\nInstall Visual Studio in MacOs\nInstall required C/C++ extensions\nCreate an account in Github\n\nSuggested videos to fulfill (Macos):\nVideo 1\nVideo 2\nNote if you are using windows or linux try searching on Youtube to do setup"
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#video",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#video",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Video",
+    "text": "Video"
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#code-cpp",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#code-cpp",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Code Cpp",
+    "text": "Code Cpp\nHere is code used in\nCode"
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#resouces",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#resouces",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Resouces",
+    "text": "Resouces\n\nBlog\nCode Link\n\nSpecial Thanks to Sebastian Our Student who created this"
+  },
+  {
+    "objectID": "lesson2-part2.html",
+    "href": "lesson2-part2.html",
+    "title": "Lesson2-Part2",
+    "section": "",
+    "text": "Coming Soon!"
+  },
+  {
+    "objectID": "lesson1-part2.html",
+    "href": "lesson1-part2.html",
+    "title": "Lesson1-Part2",
+    "section": "",
+    "text": "This is Introductory video about this course. We have discussed about applications of deep learning , Philosophy of the course and About creator of the course Jeremy Howard.\n\nVideo\n\n\n\n\nHighlights\n\nRemaking Fastai Course Practical Deep Learning 2022  Original Course\nLesson 1 Smaller Version – This one is Part 1 of lesson\nLink for the notebook (link no. 11) and notes are provided in google drive (link no. 1 in Resource Section also in description)\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\n\nSpecial Thanks to @Jeremy Howard"
+  }
+]
