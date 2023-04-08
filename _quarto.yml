@@ -15,7 +15,7 @@ format:
     toc-depth: 4
 
 website:
-  title: "mynbdev_cards"
+  title: "Deep Learning"
   site-url: "https://HafizAhmadHassan.github.io/mynbdev_cards/"
   description: ""
   execute: 
@@ -34,7 +34,10 @@ website:
         href: "https://github.com/HafizAhmadHassan/mynbdev_cards/"
   sidebar:
     style: "floating"
-
+    contents:
+      - auto: "/*.ipynb"
+      - section: Book
+        contents: fastbook_updated2/*
 metadata-files: 
   - sidebar.yml
   - custom.yml
