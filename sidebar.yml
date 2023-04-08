@@ -1,6 +1,6 @@
 website:
   sidebar:
     contents:
-      - index.ipynb
-      - 00_card.ipynb
-      - 01_deck.ipynb
+      - auto: "/index.ipynb"
+      - section: Fastbook
+        contents: fastbook-updated2/*
