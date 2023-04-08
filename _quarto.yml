@@ -36,6 +36,9 @@ website:
     right:
       - icon: github
         href: "https://github.com/HafizAhmadHassan/mynbdev_cards/"
+       - icon: twitter
+        href: https://twitter.com/fastdotai
+        aria-label: Fast.ai Twitter
   sidebar:
     style: "floating"
     contents:
