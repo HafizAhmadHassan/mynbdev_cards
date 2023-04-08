@@ -29,6 +29,10 @@ website:
   navbar:
     background: primary
     search: true
+    collapse-below: lg
+    left:
+      - text: "Get Started"
+        href: index.ipynb
     right:
       - icon: github
         href: "https://github.com/HafizAhmadHassan/mynbdev_cards/"
