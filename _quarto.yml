@@ -15,7 +15,7 @@ format:
     toc-depth: 4
 
 website:
-  title: "Deep Learning"
+  title: "mynbdev_cards"
   site-url: "https://HafizAhmadHassan.github.io/mynbdev_cards/"
   description: ""
   execute: 
@@ -29,22 +29,15 @@ website:
   navbar:
     background: primary
     search: true
-    collapse-below: lg
-    left:
-      - text: "Get Started"
-        href: index.ipynb
     right:
       - icon: github
         href: "https://github.com/HafizAhmadHassan/mynbdev_cards/"
-       - icon: twitter
-        href: https://twitter.com/fastdotai
-        aria-label: Fast.ai Twitter
   sidebar:
     style: "floating"
     contents:
-      - auto: "/*.ipynb"
-      - section: Book
-        contents: fastbook_updated2/*
+      - index.ipynb
+      - 00_card.ipynb
+      - 01_deck.ipynb
 metadata-files: 
   - sidebar.yml
   - custom.yml
