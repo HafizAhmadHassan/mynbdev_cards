@@ -15,7 +15,7 @@ format:
     toc-depth: 4
 
 website:
-  title: "mynbdev_cards"
+  title: "Deep Learning"
   site-url: "https://HafizAhmadHassan.github.io/mynbdev_cards/"
   description: "A sample how to create deck of cards lib using nbdev"
   execute: 
@@ -29,12 +29,23 @@ website:
   navbar:
     background: primary
     search: true
+    left:
+      - text: "Home"
+        file: index.ipynb
+      - sidebar:tutorials
+
     right:
       - icon: github
         href: "https://github.com/HafizAhmadHassan/mynbdev_cards/"
   sidebar:
-      style: "floating"
-      
+      - id: tutorials
+        title: "Tutorials"
+        style: "floating"
+        background: light
+        collapse-level: 2
+        contents:
+        # navigation items
+ 
 metadata-files: 
   - sidebar.yml
   - custom.yml
