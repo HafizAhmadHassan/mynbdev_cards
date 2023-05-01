@@ -15,7 +15,7 @@ format:
     toc-depth: 4
 
 website:
-  title: "Deep Learning"
+  title: "Deep-Learning"
   site-url: "https://HafizAhmadHassan.github.io/mynbdev_cards/"
   description: "A sample how to create deck of cards lib using nbdev"
   execute: 
