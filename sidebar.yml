@@ -1,4 +1,5 @@
 website:
+  title: "Deep-Learning"
   sidebar:
     contents:
       - index.ipynb
