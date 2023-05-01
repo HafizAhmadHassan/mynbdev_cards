@@ -12,7 +12,7 @@ website:
   open-graph: true
   repo-actions: [issue]
   navbar:
-    background: primary
+    background: "dark"
     search: true
   sidebar:
     style: floating
