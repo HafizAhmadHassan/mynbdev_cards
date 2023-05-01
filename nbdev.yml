@@ -2,7 +2,7 @@ project:
   output-dir: _docs
 
 website:
-  title: "mynbdev_cards"
+  title: "Deep-Learning"
   site-url: "https://HafizAhmadHassan.github.io/mynbdev_cards/"
   description: ""
   repo-branch: main
