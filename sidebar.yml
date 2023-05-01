@@ -1,23 +1,27 @@
 website:
   sidebar:
+    style: "docked"
+    search: true
     contents:
       - index.ipynb
-      - 01_Lesson0.ipynb
-      - 02_Lesson1-Part1.ipynb
-      - 03_Lesson1-Part2.ipynb
-      - 04_Lesson1-Part3.ipynb
-      - 05_Lesson1-Part4.ipynb
-      - 06_Lesson1-Part5.ipynb
-      - 07_Lesson2-part1.ipynb
-      - 08_Lesson2-part2.ipynb
-      - 09_Lesson2-part3.ipynb
-      - 10_Lesson3-part1.ipynb
       - 11_Workshop-How-to-Debug-Code-In-Cplusplus.ipynb
       - 12_Myp_1.ipynb
       - 13_Myp2.ipynb
       - 14_Myp3.ipynb
       - 15_Myp1.ipynb
-      - 16_Practice-Session1.ipynb
-      - 17_Practice-Session2.ipynb
-      - 18_Practice-Session3.ipynb
-      - 19_Practice-Session4.ipynb
+      - section: "Lessons"
+        - 01_Lesson0.ipynb
+        - 02_Lesson1-Part1.ipynb
+        - 03_Lesson1-Part2.ipynb
+        - 04_Lesson1-Part3.ipynb
+        - 05_Lesson1-Part4.ipynb
+        - 06_Lesson1-Part5.ipynb
+        - 07_Lesson2-part1.ipynb
+        - 08_Lesson2-part2.ipynb
+        - 09_Lesson2-part3.ipynb
+        - 10_Lesson3-part1.ipynb
+      - section: "Practice Session"
+        - 16_Practice-Session1.ipynb
+        - 17_Practice-Session2.ipynb
+        - 18_Practice-Session3.ipynb
+        - 19_Practice-Session4.ipynb
