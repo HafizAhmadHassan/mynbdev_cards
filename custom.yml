@@ -15,7 +15,6 @@ website:
     background: primary
     search: true
   sidebar:
-    style: "docked"
-    background: "dark"
+    style: floating
 
 metadata-files: [nbdev.yml, sidebar.yml]
