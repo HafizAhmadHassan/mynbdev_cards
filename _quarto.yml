@@ -1,21 +1,40 @@
+ipynb-filters: [nbdev_filter]
+
 project:
   type: website
+  output-dir: _docs
+  preview:
+    port: 3000
+    browser: false
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 4
 
 website:
+  title: "mynbdev_cards"
+  site-url: "https://HafizAhmadHassan.github.io/mynbdev_cards/"
+  description: "A sample how to create deck of cards lib using nbdev"
+  execute: 
+    enabled: false
   twitter-card: true
   open-graph: true
+  reader-mode: true
+  repo-branch: main
+  repo-url: "https://github.com/HafizAhmadHassan/mynbdev_cards/"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
+    right:
+      - icon: github
+        href: "https://github.com/HafizAhmadHassan/mynbdev_cards/"
   sidebar:
-    style: "docked"
-    background: "dark"
-
-metadata-files: [nbdev.yml, sidebar.yml]
+      style: "floating"
+      
+metadata-files: 
+  - sidebar.yml
+  - custom.yml
