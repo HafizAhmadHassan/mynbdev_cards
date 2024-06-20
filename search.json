@@ -1,0 +1,742 @@
+[
+  {
+    "objectID": "myp_1.html",
+    "href": "myp_1.html",
+    "title": "H-Farm Myp1 : Computer Science (Term 1)",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab: Two hour and 15 minutes, once in a week\n\n\n\n\n\nRequired Text(s):\n\n\n\n\n\n\n\n\nImportant Note: Refer to the course calendar for specific meeting dates and times. Activity and assignment details will be explained in detail within each week’s corresponding learning module. If you have any questions, please contact your instructor.\n\n\n\n\n\n\nWebsite Completion\nUsage of Macbook Keyboards\nUpload on Github\n\nNote : You are required to submit the work on Managbac today. I have created the formative\n\n\n\n\nWhy use Visual Studio Code\nCreating Files in Visual Studio Code\nVisual Studio Practice\nIntroduction to the Project\nTool setup, Instruction list, Introductary use of developer tools\n\n\n\n\n\nWhat is CSS?\nWhy Do We Use CSS?\nCSS Selectors\nA Quizz\n\n\n\n\n\nMore on Semantic tags and Metadata\nLayout design: bare bones\nPopular Layout designs\n\nFormative Lab 3 ### Week 04: Inputs in HTML - Input types - Codes for different inputs - Uses of the inputs types: Radio and Submit\nFormative Lab 4\n\n\n\n\nOpen Graph Protocol (UX with meta tags)\nOpen Graph Protocol Properties\nForms and Forms validation\nInteractive form elements\n\nFormative Lab 5\n\n\n\n\nMedia elements: Audio and Video\niFrames details\ncanvas element Formative Lab 5\n\n\n\n\n\nDocument flow\nAlignment basics\nCreating and styling a webpage\nCSS web layout\nUnits of measurement\nFlexbox and Grid\n\nFormative Lab 6\n\n\n\n\nCSS Selectors\nPseudo-elements\nPseudo classes\nAttribute selector\nText Effects\n\nFormative Lab 7\n\n\n\n\nTransformations and Transitions\nAnimations\nCommon errors and handling them\nCSS Debugging and tools\n\n\n\n\n\nResponsive designs\nLibraries and frameworks\nBootstrap\nFront end testing\nIntroduction to React\nVirtual DOM\nComponent hierarchy\n\nFormative\n\n\n\n\nIntroduction to JavaScript\nVariables\nDatatypes\nOperators\nControl flow\nLoops\n\n\n\n\n\nIntroduction to Objects and Object literals\nArrays\nTypeof\nBugs and errors\nDefensive Programming\n\n\n\n\n\nFunctions\nScope\nObject Oriented Programming\nClasses\n\n\n\n\n\nDe-structuring arrays and objects\nFor of loops\nTemplate literals\nData structures & examples\nSpread operator and use\nRest operator and use\nJs modules\nJs interactivity\nJs DOM manipulation\nSelectors\nEvent handling\n\n\n\n\n\nTesting, types, and Jest\nTest-driven development\nData on Web\nCollaboration betwwen developers\nWhat is version control\n\n\n\n\n\nRevisions in Production\nIntroduction to Command line and Bash\nUNIX commands\nDirectories\nGithub\n\n\n\n\n\nHow Git works\nRepository\nAdd comment\nBranches\nRemote vs local\nPush and pull\nWorkflow example\nHEAD\nDiff commands\nblame\nConflicts and resolving conflicts\n\n\n\n\n\n\n\nVisit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule\n\n\n\n\n\n\nStudents are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp1 : Computer Science (Term 1)"
+    ]
+  },
+  {
+    "objectID": "myp_1.html#course-information",
+    "href": "myp_1.html#course-information",
+    "title": "H-Farm Myp1 : Computer Science (Term 1)",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab: Two hour and 15 minutes, once in a week\n\n\n\n\n\nRequired Text(s):",
+    "crumbs": [
+      "H-Farm Myp1 : Computer Science (Term 1)"
+    ]
+  },
+  {
+    "objectID": "myp_1.html#outlineschedule",
+    "href": "myp_1.html#outlineschedule",
+    "title": "H-Farm Myp1 : Computer Science (Term 1)",
+    "section": "",
+    "text": "Important Note: Refer to the course calendar for specific meeting dates and times. Activity and assignment details will be explained in detail within each week’s corresponding learning module. If you have any questions, please contact your instructor.",
+    "crumbs": [
+      "H-Farm Myp1 : Computer Science (Term 1)"
+    ]
+  },
+  {
+    "objectID": "myp_1.html#term-ii",
+    "href": "myp_1.html#term-ii",
+    "title": "H-Farm Myp1 : Computer Science (Term 1)",
+    "section": "",
+    "text": "Website Completion\nUsage of Macbook Keyboards\nUpload on Github\n\nNote : You are required to submit the work on Managbac today. I have created the formative\n\n\n\n\nWhy use Visual Studio Code\nCreating Files in Visual Studio Code\nVisual Studio Practice\nIntroduction to the Project\nTool setup, Instruction list, Introductary use of developer tools\n\n\n\n\n\nWhat is CSS?\nWhy Do We Use CSS?\nCSS Selectors\nA Quizz\n\n\n\n\n\nMore on Semantic tags and Metadata\nLayout design: bare bones\nPopular Layout designs\n\nFormative Lab 3 ### Week 04: Inputs in HTML - Input types - Codes for different inputs - Uses of the inputs types: Radio and Submit\nFormative Lab 4\n\n\n\n\nOpen Graph Protocol (UX with meta tags)\nOpen Graph Protocol Properties\nForms and Forms validation\nInteractive form elements\n\nFormative Lab 5\n\n\n\n\nMedia elements: Audio and Video\niFrames details\ncanvas element Formative Lab 5\n\n\n\n\n\nDocument flow\nAlignment basics\nCreating and styling a webpage\nCSS web layout\nUnits of measurement\nFlexbox and Grid\n\nFormative Lab 6\n\n\n\n\nCSS Selectors\nPseudo-elements\nPseudo classes\nAttribute selector\nText Effects\n\nFormative Lab 7\n\n\n\n\nTransformations and Transitions\nAnimations\nCommon errors and handling them\nCSS Debugging and tools\n\n\n\n\n\nResponsive designs\nLibraries and frameworks\nBootstrap\nFront end testing\nIntroduction to React\nVirtual DOM\nComponent hierarchy\n\nFormative\n\n\n\n\nIntroduction to JavaScript\nVariables\nDatatypes\nOperators\nControl flow\nLoops\n\n\n\n\n\nIntroduction to Objects and Object literals\nArrays\nTypeof\nBugs and errors\nDefensive Programming\n\n\n\n\n\nFunctions\nScope\nObject Oriented Programming\nClasses\n\n\n\n\n\nDe-structuring arrays and objects\nFor of loops\nTemplate literals\nData structures & examples\nSpread operator and use\nRest operator and use\nJs modules\nJs interactivity\nJs DOM manipulation\nSelectors\nEvent handling\n\n\n\n\n\nTesting, types, and Jest\nTest-driven development\nData on Web\nCollaboration betwwen developers\nWhat is version control\n\n\n\n\n\nRevisions in Production\nIntroduction to Command line and Bash\nUNIX commands\nDirectories\nGithub\n\n\n\n\n\nHow Git works\nRepository\nAdd comment\nBranches\nRemote vs local\nPush and pull\nWorkflow example\nHEAD\nDiff commands\nblame\nConflicts and resolving conflicts",
+    "crumbs": [
+      "H-Farm Myp1 : Computer Science (Term 1)"
+    ]
+  },
+  {
+    "objectID": "myp_1.html#grading-policy",
+    "href": "myp_1.html#grading-policy",
+    "title": "H-Farm Myp1 : Computer Science (Term 1)",
+    "section": "",
+    "text": "Visit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule",
+    "crumbs": [
+      "H-Farm Myp1 : Computer Science (Term 1)"
+    ]
+  },
+  {
+    "objectID": "myp_1.html#course-policies",
+    "href": "myp_1.html#course-policies",
+    "title": "H-Farm Myp1 : Computer Science (Term 1)",
+    "section": "",
+    "text": "Students are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp1 : Computer Science (Term 1)"
+    ]
+  },
+  {
+    "objectID": "practice-session4.html",
+    "href": "practice-session4.html",
+    "title": "Practice Session 4",
+    "section": "",
+    "text": "In this video, I explain linear regression using the fastai library. Linear regression is a powerful tool for predicting continuous values from data. It can be used to predict things like stock prices or housing prices based on past data points. I then give an intuition about how to use the fastai library for deployment.",
+    "crumbs": [
+      "Practice Session 4"
+    ]
+  },
+  {
+    "objectID": "practice-session4.html#video",
+    "href": "practice-session4.html#video",
+    "title": "Practice Session 4",
+    "section": "Video",
+    "text": "Video",
+    "crumbs": [
+      "Practice Session 4"
+    ]
+  },
+  {
+    "objectID": "practice-session4.html#objectives",
+    "href": "practice-session4.html#objectives",
+    "title": "Practice Session 4",
+    "section": "Objectives:",
+    "text": "Objectives:\n\nLinear Regression\nStochastic Gradient Descent and Gradient Descent\nDeployment with fastai",
+    "crumbs": [
+      "Practice Session 4"
+    ]
+  },
+  {
+    "objectID": "practice-session4.html#highlights",
+    "href": "practice-session4.html#highlights",
+    "title": "Practice Session 4",
+    "section": "Highlights:",
+    "text": "Highlights:\n\nRemaking walkwithfasta course ( https://walkwithfastai.com/ )\nLesson Two – Part-1: Linear Regression and Deployment",
+    "crumbs": [
+      "Practice Session 4"
+    ]
+  },
+  {
+    "objectID": "practice-session4.html#resources",
+    "href": "practice-session4.html#resources",
+    "title": "Practice Session 4",
+    "section": "Resources:",
+    "text": "Resources:\n\nhttps://drive.google.com/drive/folders/1NdboVzKiRyN_Q8UgQfwkDVuH_4flMb-H\nhttps://drive.google.com/drive/folders/1wp9jCBaYs5UzMxR3abBnfQE3CtBQXlrX\nhttps://colab.research.google.com/github/muellerzr/Practical-Deep-Learning-for-Coders-2.0/blob/master/Computer%20Vision/02_Deployment.ipynb\nhttps://walkwithfastai.com/Introduction",
+    "crumbs": [
+      "Practice Session 4"
+    ]
+  },
+  {
+    "objectID": "lesson2-part2.html",
+    "href": "lesson2-part2.html",
+    "title": "Lesson2-Part2",
+    "section": "",
+    "text": "This is about Deployment.",
+    "crumbs": [
+      "Lesson2-Part2"
+    ]
+  },
+  {
+    "objectID": "lesson2-part2.html#readings",
+    "href": "lesson2-part2.html#readings",
+    "title": "Lesson2-Part2",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\nTo Download Click Here\n\n\n\n\n\nNotes (Part 2)\n\n\n \n\n\nTanishq Abraham Gradio and Hugging Face Blog\n\nThis is tutorial about deploying Jupyter Notebook with HuggingFace.\n\n\n\n\n\n\n\n \n\n\nBook: Chapter-2 Production (ipynb)\n\nThis is updated version of Chapter 2 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson\nAmazon Book\nFree Book Version\nCollab Setup\nShare Your Work\nConfusion Matrix : Pet Breed Classification\nChapter 2: Production\nTanishq Blog: HuggingFace and Gradio\nHuggingFace Spaces\nGithub Desktop\nMicrosoftApp Terminal\nTerminal Installation Command : WSL\nHuggingFace App by Jeremy\nForums Lesson2 Official Topic\nKaggle Forums Lesson2 Link\nColab Forums Lesson2 Link\nDocumentation Fastai\n\n  &lt;== Lesson2-Part1                                                 Lesson2-Part3 ==&gt;",
+    "crumbs": [
+      "Lesson2-Part2"
+    ]
+  },
+  {
+    "objectID": "lesson2-part2.html#acknowledgements",
+    "href": "lesson2-part2.html#acknowledgements",
+    "title": "Lesson2-Part2",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson2-Part2"
+    ]
+  },
+  {
+    "objectID": "practice-session2.html",
+    "href": "practice-session2.html",
+    "title": "Practice Session 2",
+    "section": "",
+    "text": "The goal of this project is to build a cat family classification model using convolutional neural networks (CNN) and the Fast.ai library. This model will be able to accurately classify between lion, tiger, cougar, caracal, cheetah and ocelot images. We will use transfer learning with a pre-trained ResNet34 architecture as our base for training the model on our dataset of cats from each species in order to achieve high accuracy results quickly and efficiently.",
+    "crumbs": [
+      "Practice Session 2"
+    ]
+  },
+  {
+    "objectID": "practice-session2.html#acknowledgements",
+    "href": "practice-session2.html#acknowledgements",
+    "title": "Practice Session 2",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Practice Session 2"
+    ]
+  },
+  {
+    "objectID": "lesson3-part1.html",
+    "href": "lesson3-part1.html",
+    "title": "Lesson3-Part1",
+    "section": "",
+    "text": "Uploading Soon!",
+    "crumbs": [
+      "Lesson3-Part1"
+    ]
+  },
+  {
+    "objectID": "practice-session1.html",
+    "href": "practice-session1.html",
+    "title": "Practice Session 1",
+    "section": "",
+    "text": "Image classification is an exciting field of study that can help us understand the world around us better. In this lesson, we discuss how to build a vision learner by fastai library, which is a powerful tool for image classification.",
+    "crumbs": [
+      "Practice Session 1"
+    ]
+  },
+  {
+    "objectID": "practice-session1.html#acknowledgements",
+    "href": "practice-session1.html#acknowledgements",
+    "title": "Practice Session 1",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Practice Session 1"
+    ]
+  },
+  {
+    "objectID": "lesson2-part3.html",
+    "href": "lesson2-part3.html",
+    "title": "Lesson2-Part3",
+    "section": "",
+    "text": "This is about Deployment.",
+    "crumbs": [
+      "Lesson2-Part3"
+    ]
+  },
+  {
+    "objectID": "lesson2-part3.html#readings",
+    "href": "lesson2-part3.html#readings",
+    "title": "Lesson2-Part3",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\nTo Download Click Here\n\n\n\n\n\nNotes (Part 3)\n\n\n\n\nBook: Chapter-2 Production (ipynb)\n\nThis is updated version of Chapter 2 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson\nAmazon Book\nFree Book Version\nCollab Setup\nShare Your Work\nChapter 2: Production\nGithub Pages\nTanishq Blog: HuggingFace and Gradio\nHuggingFace Spaces\nFastpages\nForums Lesson2 Official Topic\nKaggle Lesson2 Link\nColab Lesson2 Link\nDocumentation Fastai\n\n  &lt;== Lesson2-Part2                                                 Lesson3-Part1 ==&gt;",
+    "crumbs": [
+      "Lesson2-Part3"
+    ]
+  },
+  {
+    "objectID": "lesson2-part3.html#acknowledgements",
+    "href": "lesson2-part3.html#acknowledgements",
+    "title": "Lesson2-Part3",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson2-Part3"
+    ]
+  },
+  {
+    "objectID": "myp2.html",
+    "href": "myp2.html",
+    "title": "H-Farm Myp2 : Computer Science",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab:\n\n\n\n\n\n\n\n\n\n\nThis course is about Introduction to javascript and Nodejs. You will learn basic programming skills with topics covered include basic syntax, programming, while loops, operations, functions, and webpages development using JS framework. To add interactivity to your Web pages, and become Web developer.JavaScript lets you add interactive features to your Web sites, including dynamically updated content, controlled multimedia, animated images, and much more.\n\n\n\n\n\n\n\nIntro to Course\nLive Coding Tic-Tac-Toe Game\nQuiz\n\n\n\n\n\nLive Coding Tic-Tac-Toe Game\nImplementation Discussion\nQuiz\n\n\n\n\n\nLive Coding Tic-Tac-Toe Game Completion\nImplementation Discussion\nQuiz\n\n\n\n\n\nStudents Writing Comments on Tic Tac Toe Game\nDiscussion About Structure of Game & Implementation Discussion\nCreation of Presentation\nQuizz\n\n\n\n\n\nDiscussion about snake and Ladder Game Logic\nCreation of First Structure of the Game\nQuizz\n\n\n\n\n\nLive Coding Building up Structure of Game\nQuizz\n\nLab:\nstandard CSS approach and the frameworks approach\nMake a responsive page using bootstrap knowledge so far\n\nTemplates\nAccessing and using them\nchanging / altering/ customizing\nSelect a template and alter it, hands-on practice\nDebugging\nWhy needed\nHow to debug\nAvailable tools for debugging\n\n\n\n\n\nJavascript Validation\njQuery validator\nAdding jQuery validator plugin (big topic)\nCode to add validator\nAdvanced form validation\nStarting files\nStarting script\n\n\n\n\n\nChecking phone number\nAdding messages\nStyling form( Two videos, each in different section)\nWhat are prototypes\ninheritance\nIntroduction\nhadOwnProperty()\nArrow Functions\nIntroduction\nParameters\nHow to construct: constructor expressions\n\n\n\n\n\nProject: Seat Reservation System\nOverview and starting files\nCreating seats: IDs\nSections\nLeft\nRight\nmiddle\nWhat variables to use\nSwitch statements\nLoops and Html\nUsing arrow function\n\n\n\n\n\nObject: reservedSeats\nAffecting DOM\nIIFE closure\nAdding Array and event handler\ngetting seat ID and Index\nControl flow use: adding If statement\nFinish function\n\n\n\n\n\nAdding form\nStart files\nOpen and close event handler\nFixing bugs\nAdjusting control flow\nSetting final steps: CSS styles files\nUsing objects\nAdding records and cleaning\nFinal debugging process\n\n\n\n\n\nSynchronous programming VS asynchronous programming\ndiscuss/introduce JavaScript Async prog\nAsync I/O with callback programming\nIssues with callbacks\nUnderstand and use async/await keywords( keywords in different couse)\nPromise and Promise chaining\n\n\n\n\n\nUsing promise with Fetch API\ngetData()\nresponse.text\nOutputHTML Function\nBasic jQuery Version\nLoading and validating form\nSending and getting data\nsendData()\nasync/await version\nError messages\ndisplayMessage()\n\n\n\n\nserver-side Javascript\n\nBack end development\nIntro\nHow is it done?\nDiscuss web servers\nServer-side javascript\nNode.js\nIntro: discussion of asynchronous later\ncharacteristics\nModules (usual and advanced)\nExplore the node.js environment\nComponents\nWorking\nComparison to other platforms\nNode ecosystem\nBenefits of node.js\n\n\n\n\n\nFunctions\nModularize code\nMake functions\nCall functions\nArray functions 1. Create and access 2. Array operations 3. Filter data 4. Transform data 5. Aggregate data 6. Map 7. reduce\n\n\n\n\n\nUse modules\nImport and require\n\nLAB: work with a module (you can decide which module you want to introduce to the students)\n\nNode package manager\nBuilding modules\nMake a module - handson practice\nErrors and error handling\nDebugging and inbuilt node debugger\nDiagnosing eros in node application\n\n\n\n\n\nCreate a web server\nRead,write files and watchFile module\nStream and Buffer\nEventEmitter\n\n\n\n\n\nTesting\n\n\nImplementation of Mocha and Chai\n\n\nAuthentication in Node js\nIntroduction to web Frameworks\n\n\n\n\n\n\n\nVisit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule\n\n\n\n\n\n\nStudents are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp2 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "myp2.html#course-information",
+    "href": "myp2.html#course-information",
+    "title": "H-Farm Myp2 : Computer Science",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab:\n\n\n\n\n\n\n\n\n\n\nThis course is about Introduction to javascript and Nodejs. You will learn basic programming skills with topics covered include basic syntax, programming, while loops, operations, functions, and webpages development using JS framework. To add interactivity to your Web pages, and become Web developer.JavaScript lets you add interactive features to your Web sites, including dynamically updated content, controlled multimedia, animated images, and much more.",
+    "crumbs": [
+      "H-Farm Myp2 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "myp2.html#term-ii",
+    "href": "myp2.html#term-ii",
+    "title": "H-Farm Myp2 : Computer Science",
+    "section": "",
+    "text": "Intro to Course\nLive Coding Tic-Tac-Toe Game\nQuiz\n\n\n\n\n\nLive Coding Tic-Tac-Toe Game\nImplementation Discussion\nQuiz\n\n\n\n\n\nLive Coding Tic-Tac-Toe Game Completion\nImplementation Discussion\nQuiz\n\n\n\n\n\nStudents Writing Comments on Tic Tac Toe Game\nDiscussion About Structure of Game & Implementation Discussion\nCreation of Presentation\nQuizz\n\n\n\n\n\nDiscussion about snake and Ladder Game Logic\nCreation of First Structure of the Game\nQuizz\n\n\n\n\n\nLive Coding Building up Structure of Game\nQuizz\n\nLab:\nstandard CSS approach and the frameworks approach\nMake a responsive page using bootstrap knowledge so far\n\nTemplates\nAccessing and using them\nchanging / altering/ customizing\nSelect a template and alter it, hands-on practice\nDebugging\nWhy needed\nHow to debug\nAvailable tools for debugging\n\n\n\n\n\nJavascript Validation\njQuery validator\nAdding jQuery validator plugin (big topic)\nCode to add validator\nAdvanced form validation\nStarting files\nStarting script\n\n\n\n\n\nChecking phone number\nAdding messages\nStyling form( Two videos, each in different section)\nWhat are prototypes\ninheritance\nIntroduction\nhadOwnProperty()\nArrow Functions\nIntroduction\nParameters\nHow to construct: constructor expressions\n\n\n\n\n\nProject: Seat Reservation System\nOverview and starting files\nCreating seats: IDs\nSections\nLeft\nRight\nmiddle\nWhat variables to use\nSwitch statements\nLoops and Html\nUsing arrow function\n\n\n\n\n\nObject: reservedSeats\nAffecting DOM\nIIFE closure\nAdding Array and event handler\ngetting seat ID and Index\nControl flow use: adding If statement\nFinish function\n\n\n\n\n\nAdding form\nStart files\nOpen and close event handler\nFixing bugs\nAdjusting control flow\nSetting final steps: CSS styles files\nUsing objects\nAdding records and cleaning\nFinal debugging process\n\n\n\n\n\nSynchronous programming VS asynchronous programming\ndiscuss/introduce JavaScript Async prog\nAsync I/O with callback programming\nIssues with callbacks\nUnderstand and use async/await keywords( keywords in different couse)\nPromise and Promise chaining\n\n\n\n\n\nUsing promise with Fetch API\ngetData()\nresponse.text\nOutputHTML Function\nBasic jQuery Version\nLoading and validating form\nSending and getting data\nsendData()\nasync/await version\nError messages\ndisplayMessage()\n\n\n\n\nserver-side Javascript\n\nBack end development\nIntro\nHow is it done?\nDiscuss web servers\nServer-side javascript\nNode.js\nIntro: discussion of asynchronous later\ncharacteristics\nModules (usual and advanced)\nExplore the node.js environment\nComponents\nWorking\nComparison to other platforms\nNode ecosystem\nBenefits of node.js\n\n\n\n\n\nFunctions\nModularize code\nMake functions\nCall functions\nArray functions 1. Create and access 2. Array operations 3. Filter data 4. Transform data 5. Aggregate data 6. Map 7. reduce\n\n\n\n\n\nUse modules\nImport and require\n\nLAB: work with a module (you can decide which module you want to introduce to the students)\n\nNode package manager\nBuilding modules\nMake a module - handson practice\nErrors and error handling\nDebugging and inbuilt node debugger\nDiagnosing eros in node application\n\n\n\n\n\nCreate a web server\nRead,write files and watchFile module\nStream and Buffer\nEventEmitter\n\n\n\n\n\nTesting\n\n\nImplementation of Mocha and Chai\n\n\nAuthentication in Node js\nIntroduction to web Frameworks",
+    "crumbs": [
+      "H-Farm Myp2 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "myp2.html#grading-policy",
+    "href": "myp2.html#grading-policy",
+    "title": "H-Farm Myp2 : Computer Science",
+    "section": "",
+    "text": "Visit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule",
+    "crumbs": [
+      "H-Farm Myp2 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "myp2.html#course-policies",
+    "href": "myp2.html#course-policies",
+    "title": "H-Farm Myp2 : Computer Science",
+    "section": "",
+    "text": "Students are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp2 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "lesson1-part2.html",
+    "href": "lesson1-part2.html",
+    "title": "Lesson1-Part2",
+    "section": "",
+    "text": "This is Introductory video about this course. We have discussed about applications of deep learning , Philosophy of the course and About creator of the course Jeremy Howard.",
+    "crumbs": [
+      "Lesson1-Part2"
+    ]
+  },
+  {
+    "objectID": "lesson1-part2.html#readings",
+    "href": "lesson1-part2.html#readings",
+    "title": "Lesson1-Part2",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\n\n  &lt;== Lesson1-Part1                                                 Lesson1-Part3 ==&gt;",
+    "crumbs": [
+      "Lesson1-Part2"
+    ]
+  },
+  {
+    "objectID": "lesson1-part2.html#acknowledgements",
+    "href": "lesson1-part2.html#acknowledgements",
+    "title": "Lesson1-Part2",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson1-Part2"
+    ]
+  },
+  {
+    "objectID": "lesson1-part5.html#readings",
+    "href": "lesson1-part5.html#readings",
+    "title": "Lesson1-Part5",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes (Part 5)\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nThe Pytorch Image Model\nfast.ai Library Documentation\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nKaggle Notebook Jhoward\nKaggle Notebook Is it a Bird Classifier\nTabular Model\nCollaborative Filtering\nRise Extension Jupyter Notebook\nFastpages Fast.ai\nTesting Fast.ai\nShare Your Work Fast.ai\nGraphviz Extension\n\n  &lt;== Lesson1-Part4                                                 Lesson2-Part1 ==&gt;",
+    "crumbs": [
+      "Lesson1-Part5"
+    ]
+  },
+  {
+    "objectID": "lesson1-part5.html#acknowledgements",
+    "href": "lesson1-part5.html#acknowledgements",
+    "title": "Lesson1-Part5",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson1-Part5"
+    ]
+  },
+  {
+    "objectID": "practice-session3.html",
+    "href": "practice-session3.html",
+    "title": "Practice Session 3",
+    "section": "",
+    "text": "In this video, I explain image classification from scratch and show how to build a custom model with PyTorch code. Then, I demonstrate how to simplify the model by using the fastai library. Finally, I introduce the ResNet architecture and rebuild our model with it. This process gives us insight into building models for image classification tasks from start to finish while exploring different architectures along the way.",
+    "crumbs": [
+      "Practice Session 3"
+    ]
+  },
+  {
+    "objectID": "practice-session3.html#acknowledgements",
+    "href": "practice-session3.html#acknowledgements",
+    "title": "Practice Session 3",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Practice Session 3"
+    ]
+  },
+  {
+    "objectID": "myp3.html",
+    "href": "myp3.html",
+    "title": "H-Farm Myp3 : Computer Science",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Course\nIntro to flowcharts : Components/building blocks/ symbols\nUse of if/else in a flow chart\nTask: flow chart to Print the highest number from a two-numbers input\nQuizz\nTic-Tac-Toe Game\n\n\n\n\n\nIntro to flowcharts : Components/building blocks/ symbols\nUse of if/else in a flow chart\nTask: flow chart to Print the highest number from a three-numbers input\nQuizz\nTic-Tac-Toe Game Complete\n\n\n\n\n\nIntro to flowcharts : Components/building blocks/ symbols\nUse of while loop in a flowchart\nTask I: Code and FlowChart For Keep on asking input from user infinite times\nTask II: Code and FlowChart For printing name 10 times from user infinite times\nTask III : Code and FlowChart For printing name if input is 12 then 12 times for example\nQuizz\nDiscussion on Tic-Tac-Toe Game\n\n\n\n\n\nIntro to Flowcharts : Components/building blocks/ symbols\nUse of while loop in a flowchart\nDiscussion on Infinite Loops\nTask I: Write a program to print Natural Numbers For example (1,2,3,4,5,6,7….)\nTask II : Change the above task to print (5, 10, 15, 20, 25 ….)\nTask III : Change the above task to print (5, 15, 25, 35 ….)\nTask IV : Change the above task to print (5, 25, 45, ….)\nTask V : Write a program to print (1, 11, 111, 1111 ….. )\nTask VI : Change above program to print (2, 22, 222, 2222 ….. )\nQuizz\nDiscussion on Tic-Tac-Toe Game\n\n\n\n\n\nIntro to Flowcharts : Components/Building Blocks/Symbols\nUse of Functions in a Flowchart\nDiscussion on Simple Function Calling\nTask I : Develop a Calculator :\n\n\n\nAsk User to Enter 2 Numbers\nGive User Options to Press ‘s’ to Sum Given Numbers , ‘m’ to Multiply Given Numbers, ‘d’ to divide Given Numbers\n\n\nCan You Extend The Task I change a. Ask users as many numbers as User Want : Add more Functions , Like Exponential , Geometric Function etc\nQuizz\nDiscussion on EOY\n\n\n\n\n\nFunction practice\nDiscussion difference with the example\nTry creating function : User press 2 -&gt; 0 , 1 will printed on screen User press 3 -&gt; 0 , 1, 2 will printed on screen User press 4 -&gt; 0 , 1, 2, 3 will printed on screen\nTry creating function : User press 2 -&gt; 0 , 2 will printed on screen User press 3 -&gt; 0 , 2, 4 will printed on screen User press 4 -&gt; 0 , 2, 4, 6 will printed on screen\nTry creating function : User press 2 -&gt; 1 , 3 will printed on screen User press 3 -&gt; 1 , 3, 5 will printed on screen User press 4 -&gt; 1 , 3, 5, 7 will printed on screen\nPick 4 problems from following website :\n\nChalleges Problems1 Challeges Problems2\n\n\n\n\n1 Dimentional and 2 Dimentional array\nStarting Tic Tac Toe Game\nVisualise the Game\nCreate Players and Turns of Players\nLook to Flow Chart\n\n\n\n\n\n\n\nVisit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule\n\n\n\n\n\n\nStudents are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp3 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "myp3.html#course-information",
+    "href": "myp3.html#course-information",
+    "title": "H-Farm Myp3 : Computer Science",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Course\nIntro to flowcharts : Components/building blocks/ symbols\nUse of if/else in a flow chart\nTask: flow chart to Print the highest number from a two-numbers input\nQuizz\nTic-Tac-Toe Game\n\n\n\n\n\nIntro to flowcharts : Components/building blocks/ symbols\nUse of if/else in a flow chart\nTask: flow chart to Print the highest number from a three-numbers input\nQuizz\nTic-Tac-Toe Game Complete\n\n\n\n\n\nIntro to flowcharts : Components/building blocks/ symbols\nUse of while loop in a flowchart\nTask I: Code and FlowChart For Keep on asking input from user infinite times\nTask II: Code and FlowChart For printing name 10 times from user infinite times\nTask III : Code and FlowChart For printing name if input is 12 then 12 times for example\nQuizz\nDiscussion on Tic-Tac-Toe Game\n\n\n\n\n\nIntro to Flowcharts : Components/building blocks/ symbols\nUse of while loop in a flowchart\nDiscussion on Infinite Loops\nTask I: Write a program to print Natural Numbers For example (1,2,3,4,5,6,7….)\nTask II : Change the above task to print (5, 10, 15, 20, 25 ….)\nTask III : Change the above task to print (5, 15, 25, 35 ….)\nTask IV : Change the above task to print (5, 25, 45, ….)\nTask V : Write a program to print (1, 11, 111, 1111 ….. )\nTask VI : Change above program to print (2, 22, 222, 2222 ….. )\nQuizz\nDiscussion on Tic-Tac-Toe Game\n\n\n\n\n\nIntro to Flowcharts : Components/Building Blocks/Symbols\nUse of Functions in a Flowchart\nDiscussion on Simple Function Calling\nTask I : Develop a Calculator :\n\n\n\nAsk User to Enter 2 Numbers\nGive User Options to Press ‘s’ to Sum Given Numbers , ‘m’ to Multiply Given Numbers, ‘d’ to divide Given Numbers\n\n\nCan You Extend The Task I change a. Ask users as many numbers as User Want : Add more Functions , Like Exponential , Geometric Function etc\nQuizz\nDiscussion on EOY\n\n\n\n\n\nFunction practice\nDiscussion difference with the example\nTry creating function : User press 2 -&gt; 0 , 1 will printed on screen User press 3 -&gt; 0 , 1, 2 will printed on screen User press 4 -&gt; 0 , 1, 2, 3 will printed on screen\nTry creating function : User press 2 -&gt; 0 , 2 will printed on screen User press 3 -&gt; 0 , 2, 4 will printed on screen User press 4 -&gt; 0 , 2, 4, 6 will printed on screen\nTry creating function : User press 2 -&gt; 1 , 3 will printed on screen User press 3 -&gt; 1 , 3, 5 will printed on screen User press 4 -&gt; 1 , 3, 5, 7 will printed on screen\nPick 4 problems from following website :\n\nChalleges Problems1 Challeges Problems2\n\n\n\n\n1 Dimentional and 2 Dimentional array\nStarting Tic Tac Toe Game\nVisualise the Game\nCreate Players and Turns of Players\nLook to Flow Chart",
+    "crumbs": [
+      "H-Farm Myp3 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "myp3.html#grading-policy",
+    "href": "myp3.html#grading-policy",
+    "title": "H-Farm Myp3 : Computer Science",
+    "section": "",
+    "text": "Visit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule",
+    "crumbs": [
+      "H-Farm Myp3 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "myp3.html#course-policies",
+    "href": "myp3.html#course-policies",
+    "title": "H-Farm Myp3 : Computer Science",
+    "section": "",
+    "text": "Students are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp3 : Computer Science"
+    ]
+  },
+  {
+    "objectID": "practice-session5.html",
+    "href": "practice-session5.html",
+    "title": "Practice Session 5",
+    "section": "",
+    "text": "In this video, I have explained multi label classification and how to make our model recognizing unknown images with the fastai library.",
+    "crumbs": [
+      "Practice Session 5"
+    ]
+  },
+  {
+    "objectID": "practice-session5.html#video",
+    "href": "practice-session5.html#video",
+    "title": "Practice Session 5",
+    "section": "Video",
+    "text": "Video",
+    "crumbs": [
+      "Practice Session 5"
+    ]
+  },
+  {
+    "objectID": "practice-session5.html#objectives",
+    "href": "practice-session5.html#objectives",
+    "title": "Practice Session 5",
+    "section": "Objectives:",
+    "text": "Objectives:\n1.  Multi-Label Classification 2. Recognizing Unknown Images",
+    "crumbs": [
+      "Practice Session 5"
+    ]
+  },
+  {
+    "objectID": "practice-session5.html#highlights",
+    "href": "practice-session5.html#highlights",
+    "title": "Practice Session 5",
+    "section": "Highlights:",
+    "text": "Highlights:\n\nRemaking walkwithfasta course ( https://walkwithfastai.com/ )\nLesson Three - Part 1: Multi-label Classification & Unknown Label",
+    "crumbs": [
+      "Practice Session 5"
+    ]
+  },
+  {
+    "objectID": "practice-session5.html#resources-slides-and-notes",
+    "href": "practice-session5.html#resources-slides-and-notes",
+    "title": "Practice Session 5",
+    "section": "Resources (Slides and Notes):",
+    "text": "Resources (Slides and Notes):\n\nhttps://docs.google.com/presentation/d/1yDgScGDOVwpYqe7vr-m4rBLzWg5EZsiG/edit?usp=share_link&ouid=103648487104315358790&rtpof=true&sd=true\nhttps://drive.google.com/file/d/1qUtP4S-E_IYl3S6k1AqBS2H7XsbnxbGL/view?usp=share_link",
+    "crumbs": [
+      "Practice Session 5"
+    ]
+  },
+  {
+    "objectID": "myp1.html",
+    "href": "myp1.html",
+    "title": "H-Farm Myp5 : Computer Science (2022-23)",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab: Two hour and 15 minutes, once in a week Section1: 8:45am to 10:15am Monday Section2: 10:15 am to 11:00pm Tuesday\n\n\n\n\n\nRequired Text(s):\n\nHow to program in C++ by Deitel Deitel and\n\n\n\n\n\nThis is a fast-paced introductory course to the C++ programming language. It is intended for those with little programming background, though prior programming experience will make it easier, and those with previous experience will still learn C++ - specific constructs and concepts.\nBy the end of this course, you should be able to:\n\nUnderstand and use the basic programming constructs of C/C++\nManipulate various C/C++ datatypes, such as arrays, strings, and pointers\nIsolate and fix common errors in C++ programs\nUse memory appropriately, including proper allocation/deallocation procedures\nWrite small-scale C++ programs using the above skills\n\n\n\n\n\nImportant Note: Refer to the course calendar for specific meeting dates and times. Activity and assignment details will be explained in detail within each week’s corresponding learning module. If you have any questions, please contact your instructor.\n\n\n\nCourse overview\nAbout programming\nVariables and data types\nKeyboard input and screen output\n\nFormative Lab 1 – Tool setup, Instruction list\n\n\n\n\nOperator overview\nOperator precedence\nC++ operators vs. algebra operators\n\nFormative Lab 2\n\n\n\n\nExpressions\nBranching code\n\nFormative Lab 3\n\n\n\n\nBoolean expressions\nMultipath branches\nLoops\n\nFormative Lab 4\n\n\n\n\nSyntax\nUse Cases\nSize of Array\n\nFormative Lab 5\n\n\n\n\nArrays\nFunctions\n\nFormative Lab 6\n\n\n\n\nArrays Filling (With or Without Loops)\nTypes of Arrays\nASCII\n\nFormative Lab 7\n\n\n\n\nDicussion about Project and Basic Implementation\n\n\n\n\n\nHow to Debug a code with Visual Studio Formative Link\n\n\n\n\n\nDiscussion about Chess Game\nBasic Interface\n\n\n\n\n\nDiscussion about Game Logic\nBasic Interface\n\n\n\n\n\nDiscussion about Game Logic in details\n\n\n\n\n\nDiscussion about Game Logic in details\n\n\n\n\n\nOral Session\nWritten Exam\n\n\n\n\n\n\n\n\nChess\nFlow Chart of Chess Game\nIntroduction to AI\nKaggle & Colab\n\n\n\n\n\nCompletion of Chess Game\nNbdev Link\nBird Detection System Link Notebook\n\nNotes: The task has been added to the Managbac\n\n\n\n\nDiscussion about Classification Systems\nStudents will provided a code to modify\nDiscussion on Logic of Code\n\n\n\n\n\nDiscussion about Classification Systems\nCoding Problems\nModifications in Code\n\n\n\n\n\nTabular Datasets\nDataset Analysis\nDiscuss about Developing application\n\nNote: The task has been added to the Managbac\n\n\n\n\nHow Deep Learning Model Works\nCNN Model\n\nCoding Problems\nStruct in C++\n\n\n\n\n\nComparison With Different Models and Different Ai Problems\nHow You can do Model Deployment\nHuggingFace Space\n\nCoding Problems\nStruct vs Classes in C++\n\nNote: The task has been added to the Managbac\n\n\n\n\nComparison With Different Models and Different Ai Problems\nHow You can do Model Deployment\nHuggingFace Space\n\nCoding Problems\nStruct vs Classes in C++\n\nNote: The task has been added to the Managbac\n\n\n\n\nIntroduction to different Sorting Algorithms\nSelection Sort\nEvaluation of Presentation and Deployment\nCoding Problems\n\nNote: The task has been added to the Managbac\n\n\n\n\n\n\nVisit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule\n\n\n\n\n\n\nStudents are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp5 : Computer Science (2022-23)"
+    ]
+  },
+  {
+    "objectID": "myp1.html#course-information",
+    "href": "myp1.html#course-information",
+    "title": "H-Farm Myp5 : Computer Science (2022-23)",
+    "section": "",
+    "text": "Instructor: Hafiz Ahmad Hassan\nE-mail: hafiz.hassan@h-is.com\nLecture / Lab: Two hour and 15 minutes, once in a week Section1: 8:45am to 10:15am Monday Section2: 10:15 am to 11:00pm Tuesday\n\n\n\n\n\nRequired Text(s):\n\nHow to program in C++ by Deitel Deitel and\n\n\n\n\n\nThis is a fast-paced introductory course to the C++ programming language. It is intended for those with little programming background, though prior programming experience will make it easier, and those with previous experience will still learn C++ - specific constructs and concepts.\nBy the end of this course, you should be able to:\n\nUnderstand and use the basic programming constructs of C/C++\nManipulate various C/C++ datatypes, such as arrays, strings, and pointers\nIsolate and fix common errors in C++ programs\nUse memory appropriately, including proper allocation/deallocation procedures\nWrite small-scale C++ programs using the above skills",
+    "crumbs": [
+      "H-Farm Myp5 : Computer Science (2022-23)"
+    ]
+  },
+  {
+    "objectID": "myp1.html#outlineschedule",
+    "href": "myp1.html#outlineschedule",
+    "title": "H-Farm Myp5 : Computer Science (2022-23)",
+    "section": "",
+    "text": "Important Note: Refer to the course calendar for specific meeting dates and times. Activity and assignment details will be explained in detail within each week’s corresponding learning module. If you have any questions, please contact your instructor.\n\n\n\nCourse overview\nAbout programming\nVariables and data types\nKeyboard input and screen output\n\nFormative Lab 1 – Tool setup, Instruction list\n\n\n\n\nOperator overview\nOperator precedence\nC++ operators vs. algebra operators\n\nFormative Lab 2\n\n\n\n\nExpressions\nBranching code\n\nFormative Lab 3\n\n\n\n\nBoolean expressions\nMultipath branches\nLoops\n\nFormative Lab 4\n\n\n\n\nSyntax\nUse Cases\nSize of Array\n\nFormative Lab 5\n\n\n\n\nArrays\nFunctions\n\nFormative Lab 6\n\n\n\n\nArrays Filling (With or Without Loops)\nTypes of Arrays\nASCII\n\nFormative Lab 7\n\n\n\n\nDicussion about Project and Basic Implementation\n\n\n\n\n\nHow to Debug a code with Visual Studio Formative Link\n\n\n\n\n\nDiscussion about Chess Game\nBasic Interface\n\n\n\n\n\nDiscussion about Game Logic\nBasic Interface\n\n\n\n\n\nDiscussion about Game Logic in details\n\n\n\n\n\nDiscussion about Game Logic in details\n\n\n\n\n\nOral Session\nWritten Exam",
+    "crumbs": [
+      "H-Farm Myp5 : Computer Science (2022-23)"
+    ]
+  },
+  {
+    "objectID": "myp1.html#term-ii",
+    "href": "myp1.html#term-ii",
+    "title": "H-Farm Myp5 : Computer Science (2022-23)",
+    "section": "",
+    "text": "Chess\nFlow Chart of Chess Game\nIntroduction to AI\nKaggle & Colab\n\n\n\n\n\nCompletion of Chess Game\nNbdev Link\nBird Detection System Link Notebook\n\nNotes: The task has been added to the Managbac\n\n\n\n\nDiscussion about Classification Systems\nStudents will provided a code to modify\nDiscussion on Logic of Code\n\n\n\n\n\nDiscussion about Classification Systems\nCoding Problems\nModifications in Code\n\n\n\n\n\nTabular Datasets\nDataset Analysis\nDiscuss about Developing application\n\nNote: The task has been added to the Managbac\n\n\n\n\nHow Deep Learning Model Works\nCNN Model\n\nCoding Problems\nStruct in C++\n\n\n\n\n\nComparison With Different Models and Different Ai Problems\nHow You can do Model Deployment\nHuggingFace Space\n\nCoding Problems\nStruct vs Classes in C++\n\nNote: The task has been added to the Managbac\n\n\n\n\nComparison With Different Models and Different Ai Problems\nHow You can do Model Deployment\nHuggingFace Space\n\nCoding Problems\nStruct vs Classes in C++\n\nNote: The task has been added to the Managbac\n\n\n\n\nIntroduction to different Sorting Algorithms\nSelection Sort\nEvaluation of Presentation and Deployment\nCoding Problems\n\nNote: The task has been added to the Managbac",
+    "crumbs": [
+      "H-Farm Myp5 : Computer Science (2022-23)"
+    ]
+  },
+  {
+    "objectID": "myp1.html#grading-policy",
+    "href": "myp1.html#grading-policy",
+    "title": "H-Farm Myp5 : Computer Science (2022-23)",
+    "section": "",
+    "text": "Visit the Assignments link in Managbac (Tasks) for details about each assignment listed.Also you can find access quizzes and exams.\n\n\n\nExample: Be sure to pay close attention to deadlines—there will be no make up assignments or quizzes, or late work accepted without a serious and compelling reason and instructor approval.\n\n\n\nAccording to IB Grading Rule",
+    "crumbs": [
+      "H-Farm Myp5 : Computer Science (2022-23)"
+    ]
+  },
+  {
+    "objectID": "myp1.html#course-policies",
+    "href": "myp1.html#course-policies",
+    "title": "H-Farm Myp5 : Computer Science (2022-23)",
+    "section": "",
+    "text": "Students are expected to participate in all online activities as listed on the course calendar. Enter specifics regarding attendance policy here.\nIf you monitor, track, and/or score student participation, explain how you will keep track and how often students should be accessing the course. If appropriate, mention that you will be using Managbac tracking tool, discussions, chat sessions, and group work, to monitor their participation in the course.\n\n\n\nIf you find that you have any trouble keeping up with assignments or other aspects of the course, make sure you let your instructor know as early as possible. As you will find, building rapport and effective relationships are key to becoming an effective professional. Make sure that you are proactive in informing your instructor when difficulties arise during the semester so that we can help you find a solution.\n\n\n\nAll assignments for this course will be submitted electronically through Canvas unless otherwise instructed. Assignments must be submitted by the given deadline or special permission must be requested from instructor before the due date. Extensions will not be given beyond the next assignment except under extreme circumstances.\nAll discussion assignments must be completed by the assignment due date and time. Late or missing discussion assignments will lower your grade.\n\n\n\nIt is the student’s responsibility to understand when they need to consider disenrolling from a course. Refer to the MPC Course Schedule for dates and deadlines for registration. After this period, a serious and compelling reason is required to drop from the course. Serious and compelling reasons includes: (1) documented and significant change in work hours, leaving student unable to attend class, or (2) documented and severe physical/mental illness/injury to the student or student’s family.\n\n\n\nUnder emergency/special circumstances, students may petition for an incomplete grade. An incomplete will only be assigned if [insert condition here]. All incomplete course assignments must be completed within [insert timeframe here].\n\n\n\nIf you have a disability and would like to request accommodations, please contact the instructor during the first week of the semester so that your accommodations may be provided in a timely manner.ARC (Access Resource Center) provides assistance in determining and facilitating appropriate accommodations for students with verified disabilities. The ARC office is located on the first floor of the Student Services building (STS 115).\n\n\nIt is important for students to acknowledge sources that are used for completing classroom assignments. Plagiarism is a form of academic dishonesty.\nPlagiarism may be any one of the following:\n\nVerbatim copying without proper documentation of the source(s).\nParaphrasing without proper documentation of the source(s).\nUnacknowledged appropriation of information or ideas from someone else.\nCopying Someones code\n\nIf students have any questions about these forms of plagiarism or about an assignment they are preparing, they should ask their instructor for clarification rather than risk unintentional plagiarism.\n\n\n\nIt is important for students to act in an honest and trustworthy manner. Work performed on examinations or other forms of evaluation must represent an individual’s own work, knowledge and experience of the subject matter. Students are expected to follow the classroom rules established by the instructor.\nCheating may be any one of the following:\n\nUnauthorized looking at or procuring information from any unauthorized sources or from another student’s work during an examination or from any work that will be graded or given points.\nUnauthorized acquiring, reading or learning of test questions prior to the testing date and time.\nChanging any portion of a returned graded test or report and resubmitting it as an original work to be regraded.\nPresenting the work of another as one’s own for a grade or points.\nKnowingly assisting another student in cheating.\n\nThis list is not all-inclusive and the list itself is not meant to limit the definition of cheating to just these items mentioned.\n\n\n\nThe disciplinary action for cheating or plagiarism is up to the discretion of the instructor. The instructor may select one or more of the following options:\n\nIssue an oral or written notification and warn the student that further acts of this sort will result in additional disciplinary action.\nIssue an “NP” or a failing grade (“F”) or “0” for the assignment in question.\nRefer the student to the Vice President for Student Services for disciplinary action.",
+    "crumbs": [
+      "H-Farm Myp5 : Computer Science (2022-23)"
+    ]
+  },
+  {
+    "objectID": "lesson1-part1.html",
+    "href": "lesson1-part1.html",
+    "title": "Lesson1-Part1",
+    "section": "",
+    "text": "This is Introductory video about this course.We have first look to how to create a classification system with fastai.",
+    "crumbs": [
+      "Lesson1-Part1"
+    ]
+  },
+  {
+    "objectID": "lesson1-part1.html#readings",
+    "href": "lesson1-part1.html#readings",
+    "title": "Lesson1-Part1",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full \n\n\n\nNotes\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources\n\nSlides and Lecture Notes\nOriginal Video Lesson\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nPython Notebook\nMedium.com Article Blog\n\n  &lt;== Lesson0                                                 Lesson1-Part2 ==&gt;",
+    "crumbs": [
+      "Lesson1-Part1"
+    ]
+  },
+  {
+    "objectID": "lesson1-part1.html#acknowledgements",
+    "href": "lesson1-part1.html#acknowledgements",
+    "title": "Lesson1-Part1",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson1-Part1"
+    ]
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "",
+    "text": "This lecture will teach you how you can do debugging code in c++ and make a setting. We have shown example as well.",
+    "crumbs": [
+      "Workshop: How to Debug a Code in C++"
+    ]
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#prerequisite",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#prerequisite",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Prerequisite :",
+    "text": "Prerequisite :\n\nInstall Visual Studio in MacOs\nInstall required C/C++ extensions\nCreate an account in Github\n\nSuggested videos to fulfill (Macos):\nVideo 1\nVideo 2\nNote if you are using windows or linux try searching on Youtube to do setup",
+    "crumbs": [
+      "Workshop: How to Debug a Code in C++"
+    ]
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#video",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#video",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Video",
+    "text": "Video",
+    "crumbs": [
+      "Workshop: How to Debug a Code in C++"
+    ]
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#code-cpp",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#code-cpp",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Code Cpp",
+    "text": "Code Cpp\nHere is code used in\nCode",
+    "crumbs": [
+      "Workshop: How to Debug a Code in C++"
+    ]
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#resouces",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#resouces",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Resouces",
+    "text": "Resouces\n\nBlog\nCode Link",
+    "crumbs": [
+      "Workshop: How to Debug a Code in C++"
+    ]
+  },
+  {
+    "objectID": "workshop-how-to-debug-code-in-cplusplus.html#acknowledgments",
+    "href": "workshop-how-to-debug-code-in-cplusplus.html#acknowledgments",
+    "title": "Workshop: How to Debug a Code in C++",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nSpecial Thanks to Sebastian Our Student who created this",
+    "crumbs": [
+      "Workshop: How to Debug a Code in C++"
+    ]
+  },
+  {
+    "objectID": "lesson1-part4.html#readings",
+    "href": "lesson1-part4.html#readings",
+    "title": "Lesson1-Part4",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes (Part 4)\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nThe Pytorch Image Model\nfast.ai Library Documentation\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nKaggle Notebook Jhoward\nKaggle Notebook Is it a Bird Classifier\n\n  &lt;== Lesson1-Part3                                                 Lesson1-Part5 ==&gt;",
+    "crumbs": [
+      "Lesson1-Part4"
+    ]
+  },
+  {
+    "objectID": "lesson1-part4.html#acknowledgements",
+    "href": "lesson1-part4.html#acknowledgements",
+    "title": "Lesson1-Part4",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson1-Part4"
+    ]
+  },
+  {
+    "objectID": "lesson0.html",
+    "href": "lesson0.html",
+    "title": "Lesson0-start",
+    "section": "",
+    "text": "This is Introductory video about this course. We have first look to how to create a classification system with fastai.",
+    "crumbs": [
+      "Lesson0-start"
+    ]
+  },
+  {
+    "objectID": "lesson0.html#acknowledgements",
+    "href": "lesson0.html#acknowledgements",
+    "title": "Lesson0-start",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson0-start"
+    ]
+  },
+  {
+    "objectID": "lesson2-part1.html",
+    "href": "lesson2-part1.html",
+    "title": "Lesson2-Part1",
+    "section": "",
+    "text": "This is about Deployment.",
+    "crumbs": [
+      "Lesson2-Part1"
+    ]
+  },
+  {
+    "objectID": "lesson2-part1.html#readings",
+    "href": "lesson2-part1.html#readings",
+    "title": "Lesson2-Part1",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\nTo Download Click Here\n\n\n\n\n\nNotes (Part 1)\n\n\n\n\nBook: Chapter-2 Production (ipynb)\n\nThis is updated version of Chapter 2 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources :\n\nSlides and Lecture Notes\nOriginal Lesson Video\nMedium.com Blog\nAmazon Book\nBook With Colab\nAiQuizzes\nForums Lesson 1 Official Topic\nForums Share Your Work\nDeployed Application With Hugging Face\nJupyter Notebook Extensions\nFastbook Free\nChapter 2 - Fastbook\nComputer Vision Model\nDocumentation of fastai\n\n  &lt;== Lesson1-Part5                                                 Lesson2-Part2 ==&gt;",
+    "crumbs": [
+      "Lesson2-Part1"
+    ]
+  },
+  {
+    "objectID": "lesson2-part1.html#acknowledgements",
+    "href": "lesson2-part1.html#acknowledgements",
+    "title": "Lesson2-Part1",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson2-Part1"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Deep Learning (0 to 1)",
+    "section": "",
+    "text": "A free course of deep learning extended version of  fast.ai \n\n\n\nIt is designed for anyone who want to get into deep learning. You can learn from beginning to advance level. This is extended version contains detailed explanation of each lesson the original course with addition of notes and more resources.",
+    "crumbs": [
+      "Deep Learning (0 to 1)"
+    ]
+  },
+  {
+    "objectID": "index.html#get-started",
+    "href": "index.html#get-started",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Get Started",
+    "text": "Get Started\n\nLesson 1\n\nNews and Updates\nWe are launching Chatgpt Tutorial series",
+    "crumbs": [
+      "Deep Learning (0 to 1)"
+    ]
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Instructor",
+    "text": "Instructor\n\n\n\n\n\nHello, My Name is Hafiz Ahmad Hassan. I am your mentor in the path of deep learning. To summarize I studied Bachelors in Computer Science from FAST-NUCES and Masters from University of Verona.\n\n\nMy first article on Skin Lesion Classification System during bachelors published on ICGHIT South Korea. I worked as Researcher at WEISS Surgical Robot Vision Group University College London in the field of Surgical Data Science. Later I joined Mig-Mit NGO in Germany. Currently I am working as Computer Scince Instructor at H-Farm International School Italy.\n\n\nI have an interest in deep learning, Machine Learning espacially its application in field of Medicine.\n\n\n\nLessons Link\n\n\nLesson 1 : part1 part2 part3 part4 part5\n\n\nLesson 2 : part1 part2 part3\n\n\nLesson 3 : part 1 (Uploading Soon)",
+    "crumbs": [
+      "Deep Learning (0 to 1)"
+    ]
+  },
+  {
+    "objectID": "index.html#instructor-1",
+    "href": "index.html#instructor-1",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Instructor",
+    "text": "Instructor\n\n\nMy name is Doha Tarek and I am an Artificial Intelligence student. During my studies, I have taken courses related to AI and completed projects that can be found on my GitHub.\n\n\nMy passion for the field of AI drives me to continuously increase my knowledge through reading books as well as taking additional courses in Machine Learning, Deep Learning, Mathematics and more. So I am excited to share with you the knowledge and skills that I have acquired so far. My aim is to provide guidance in a way that will help you reach your goals while also providing resources which may prove useful along the way.\n\n\nPractical Sessions\n\nLesson 1 : part1 part2\n\n\nLesson 2 : part1 part2\n\n\nLesson 3: part1",
+    "crumbs": [
+      "Deep Learning (0 to 1)"
+    ]
+  },
+  {
+    "objectID": "index.html#our-sponsors",
+    "href": "index.html#our-sponsors",
+    "title": "Deep Learning (0 to 1)",
+    "section": "Our Sponsors",
+    "text": "Our Sponsors\nMig-Mit",
+    "crumbs": [
+      "Deep Learning (0 to 1)"
+    ]
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Deep Learning (0 to 1)",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\n   ",
+    "crumbs": [
+      "Deep Learning (0 to 1)"
+    ]
+  },
+  {
+    "objectID": "lesson1-part3.html",
+    "href": "lesson1-part3.html",
+    "title": "Lesson1-Part3",
+    "section": "",
+    "text": "This Lecture discusses about history of deep learning , framework and Jupyter notebook.",
+    "crumbs": [
+      "Lesson1-Part3"
+    ]
+  },
+  {
+    "objectID": "lesson1-part3.html#readings",
+    "href": "lesson1-part3.html#readings",
+    "title": "Lesson1-Part3",
+    "section": "Readings",
+    "text": "Readings\n\nSo If you finished watching video there are notes and slides available for you. Feel free to download that and you can do a quick review of the lesson\n\n\nSlides\n\nClick to Slide Show to View Full\n\n\n\n\n\nNotes (Part 3)\n\nClick to Top right icon to download notes.\n\n\n\n\n\nChapter 1 Book\n\nThis is updated version of Chapter 1 of Book Deep Learning for Coders With Fastai and Pytorch: AI Applications Without a Phd\n\n\nI modified code according to new version of fastai library\n\n\n\n\nResources\n\nSlides and Notes\nOriginal Lesson Video\nFree Book Version\nAmazon Book\nImage Analysis Tool PixSpy\nDalle Text to Image Generator\nData Ethics Course\nCups.fast.ai\nFast.ai Course 2017\nULMfit Paper With Code\nKaggle Notebook\nMedium.com Article Blog\nJhoward Kaggle Notebooks\nNotebook 101 Get Start\n\n  &lt;== Lesson1-Part2                                                 Lesson1-Part4 ==&gt;",
+    "crumbs": [
+      "Lesson1-Part3"
+    ]
+  },
+  {
+    "objectID": "lesson1-part3.html#acknowledgements",
+    "href": "lesson1-part3.html#acknowledgements",
+    "title": "Lesson1-Part3",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nSpecial Thanks to @Jeremy Howard",
+    "crumbs": [
+      "Lesson1-Part3"
+    ]
+  }
+]
