@@ -1,4 +1,5 @@
 # My nbdev Cards
+*Created: 2022-08-14*
 
 A Python library and documentation site built with **nbdev**, containing a collection of Jupyter notebooks organised as lessons, workshops, and practice sessions for programming education.
 
